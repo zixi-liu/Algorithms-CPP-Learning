@@ -11,3 +11,9 @@ If the keys are real numbers between 0 and 1, we might just multiply by M and ro
 
 ### Strings
 Modular hashing works for long keys such as strings, too: we simply treat them as huge integers. For example, the code below computes a modular hash function for a String s, where R is a small prime integer (Java uses 31).
+
+```
+int hash = 0;
+for (int i = 0; i < s.length(); i++)
+    hash = (R * hash + s.charAt(i)) % M;
+```
