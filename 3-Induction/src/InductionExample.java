@@ -1,6 +1,6 @@
 class Result {
- public long wheatNum = 0;  // 当前格的麦粒数
- public long wheatTotalNum = 0;  // 目前为止麦粒的总数
+ public long wheatNum = 0;  // Current number of wheats
+ public long wheatTotalNum = 0;  // Current total number of wheats
 }
 
 public class InductionExample {
