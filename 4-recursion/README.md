@@ -8,4 +8,4 @@ Initial steps of the recursive algorithm correspond to the basis clause of the r
 ### Divide and Conquer
 
 - Mergesort
-- MapReduce
+- [**MapReduce**](https://cgi.luddy.indiana.edu/~prateeks/ds/Lec5.pdf)
