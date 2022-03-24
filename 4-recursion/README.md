@@ -5,6 +5,6 @@ If a problem can be solved utilizing solutions to smaller versions of the same p
 
 Initial steps of the recursive algorithm correspond to the basis clause of the recursive definition and they identify the basis elements. They are then followed by steps corresponding to the inductive clause, which reduce the computation for an element of one generation to that of elements of the immediately preceding generation.
 
-## Divide and Conquer
+### Divide and Conquer
 
 - Mergesort
